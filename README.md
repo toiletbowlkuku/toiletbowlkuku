@@ -50,15 +50,28 @@ Jesus Titty Fucking Christ (JTFC)
 
 Beyond coding, I am passionate about exploring emerging technologies, contributing to open-source projects, and participating in hackathons. When I'm not at my desk, I enjoy hiking, photography, and keeping up with the latest trends in tech.
 
-## 🖋️ Signature:
+## 🖋️ Prose:
 
 <pre>
-  /$$$$$$              /$$                                  
- /$$__  $$            | $$                                  
-| $$  \ $$  /$$$$$$  /$$$$$$    /$$$$$$  /$$   /$$ /$$$$$$$ 
-| $$  | $$ /$$__  $$|_  $$_/   /$$__  $$| $$  | $$| $$__  $$
-| $$  | $$| $$  \__/  | $$    | $$  \__/| $$  | $$| $$  \ $$
-| $$  | $$| $$        | $$ /$$| $$      | $$  | $$| $$  | $$
-|  $$$$$$/| $$        |  $$$$/| $$      |  $$$$$$/| $$  | $$
- \______/ |__/         \___/  |__/       \______/ |__/  |__/
+In the realm where thoughts and words entwine,
+Lies a land of whispers, in twilight's decline.
+Shiggs and shirks, in shadows they gleam,
+Echoes of ancient tales, in dreams they seem.
+
+The Shiggerse roams, with steps so soft,
+Through the brambles and moss, in silence aloft.
+Its eyes like moons, in the night it sings,
+A lullaby sweet, on enchanted wings.
+
+In forests old, by rivers wide and deep,
+The Shiggerse dances, while others sleep.
+It weaves a spell, of wonder and light,
+Guiding lost souls, through endless night.
+
+Yet heed the caution, as dawn breaks anew,
+For the Shiggerse fades, and day's light is true.
+Its magic lingers, in memories held dear,
+Until dusk returns, and it reappears.
 </pre>
+
+![](https://komarev.com/ghpvc/?username=toiletbowlkuku&color=000000)
